@@ -1,5 +1,6 @@
 runtime: java17
-
+env_variables:
+  JAVA_HOME: '/usr/lib/jvm/java-1.7.0-openjdk-amd64'
 
 instance_class: F1
 
